@@ -10,7 +10,7 @@ Our vision is to operate as a flexible team in Latin America, mostly working rem
 ✨Operate as Tech Lead on one or multiple programs;
 ✨Fluent English.
 
-**What background is needed:
+**What background is needed**:
 
 ✨You have at least 4 years of experience in development:
 ✨for web backend experience we expect any of:
