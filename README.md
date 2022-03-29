@@ -1,4 +1,6 @@
 👋 Hello, world! Here's a new job in CreativeCo
+
+
 CreativeCo Studio is an international company with headquarters in the USA. Since 2009 we’ve been designing, building and operating software products and services. We’ve helped over 50 SaaS, e-commerce, marketplace, and tech-enabled services companies achieve their product vision. For most of our clients, we are their primary strategic software design and development partner, responsible for designing, building and operating their digital platform.
 Our current design and engineering team is located in Eastern Europe, working mostly remotely. Our goal is to establish a new team in Latin America that can work with US clients and collaborate with our Eastern European team. We are seeking a leader to help us build and operate this team. We’re not looking for just a “manager” - but rather a highly experienced product engineer that wants to actively work on digital projects and build a team in parallel.
 Our vision is to operate as a flexible team in Latin America, mostly working remotely. But we are open to having an office presence if that is more suitable for the team over time.
